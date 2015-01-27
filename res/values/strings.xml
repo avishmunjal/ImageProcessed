@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CameraMainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="PressButton">Press timer</string>
+    <string name="TakePhoto">Take picture</string>
+    <string name="TakeCam">Take Cam picture</string>
+    <string name="title_second_activity"></string>
+    <string name="ocr">Click to start Camera </string>
+    <string name="picture">Click to take picture</string>
+</resources>
